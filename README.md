@@ -1,4 +1,4 @@
-# Dnd5e converter (Ruleset5ePlugin)
+# Dnd5e converter (Ruleset5ePlugin) <h2>[User Manual PDF](https://github.com/xerjiomg/Dnd5eConverter-Ruleset5ePlugin/releases/download/v1.0.0/Dnd5eConverter_Guide.pdf)</h2>
 
 This is an unofficial tools for convert text files structured as in 5etools web page into Dnd5e files compatibles with [Rule Set 5e Plugin](https://talespire.thunderstore.io/package/LordAshes/RuleSet5EPlugin/)  for Talespire.
 Currently provides:
@@ -9,7 +9,7 @@ Currently provides:
 
 ## Install
 
-Download the Dnd5eConverter.zip file and extract the content in a folder. Then execute the file called Dnd5eConverter.exe. 
+Download the [Dnd5eConverter.Ruleset5ePlugin.1.0.0.rar](https://github.com/xerjiomg/Dnd5eConverter-Ruleset5ePlugin/releases/download/v1.0.0/Dnd5eConverter.Ruleset5ePlugin.1.0.0.rar) file and extract the content in a folder. Then execute the file called Dnd5eConverter.exe. 
 
 ## Usage
 
