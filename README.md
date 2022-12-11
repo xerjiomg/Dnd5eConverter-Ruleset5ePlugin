@@ -15,7 +15,7 @@ Download the Dnd5eConverter.zip file and extract the content in a folder. Then e
 
 The tool have two different areas: Bestiary and Spell. The first, in left side, related to the conversion of Json files and text from clipboard to Dnd5e files and, the second, in right side, with relation to conversion to a Spell files and the usage of them in the Dnd5e files creation.
 
-![Dnd5 converter](/assets/Dnd5eConverter.png)
+<img src="https://github.com/xerjiomg/Dnd5eConverter-Ruleset5ePlugin/releases/download/v1.0.0/Dnd5eConverter.png" width="400" height="280">
 
 In the frames at the bottom of each area the tool display information about the number Dnd5e and Spell files loaded.
 
