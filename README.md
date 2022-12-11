@@ -1,4 +1,4 @@
-# Dnd5e converter
+# Dnd5e converter (Ruleset5ePlugin)
 
 This is an unofficial tools for convert text files structured as in 5etools web page into Dnd5e files compatibles with Rule Set 5e Plugin for Talespire.
 Currently provides:
