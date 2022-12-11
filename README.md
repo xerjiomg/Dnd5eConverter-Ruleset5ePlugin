@@ -1,6 +1,6 @@
 # Dnd5e converter (Ruleset5ePlugin)
 
-This is an unofficial tools for convert text files structured as in 5etools web page into Dnd5e files compatibles with Rule Set 5e Plugin for Talespire.
+This is an unofficial tools for convert text files structured as in 5etools web page into Dnd5e files compatibles with [Rule Set 5e Plugin](https://talespire.thunderstore.io/package/LordAshes/RuleSet5EPlugin/)  for Talespire.
 Currently provides:
 
 1. Two methods to convert text files into a Dnd5e. The first one allow select multiple Json files with a single or multiple monster information into individuals Dnd5e files. The second one take the content copied on clipboard and convert it into a single Dnd5e file.
